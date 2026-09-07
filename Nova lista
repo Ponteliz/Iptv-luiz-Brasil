@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="TESTE",Teste
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda Nova Chance HD" tvg-logo="https://i.imgur.com/FuRKLSq.png" group-title="Premiere",A Fazenda Nova Chance HD
 http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/4776.ts
 #EXTINF:-1 tvg-id="" tvg-name="A Fazenda Nova Chance (Apenas Brasil)" tvg-logo="https://i.imgur.com/FuRKLSq.png" group-title="Premiere",A Fazenda Nova Chance (Apenas Brasil)
